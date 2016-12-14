@@ -8,7 +8,7 @@ window.onload = function () {
     if (divs[i].id.indexOf("siteTable_") == 0 &&
         divs[i].className === "sitetable nestedlisting") {
       var commentArea = divs[i];
-      comments = Array.from(commentArea.comments).filter(function (child) {
+      comments = Array.from(commentArea.children).filter(function (child) {
         return !(child.className === "clearleft");
       });
       commentIndex = 0;
