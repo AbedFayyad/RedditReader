@@ -6,6 +6,8 @@ This is a work in progress.
 Press `J` to collapse threads, top to bottom, and press `K` to expand them from the bottom up. See a demonstration [here](https://streamable.com/ua1v).
 
 # Installation
+Download the latest release [here](https://github.com/AbedFayyad/RedditReader/releases) or install/build it yourself using Safari's Extension Builder:
+
 1. Enable Safari's Develop menu <br>![Safari's Develop mode](http://i.imgur.com/Wjqcl5z.png)
 2. Download/clone the repository and copy `Reddit Reader.safariextension` into your desired directory
 3. From the Develop menu, select "Show Extension Builder" <br>![Show Extension Builder](http://i.imgur.com/7a4OIIX.png)
